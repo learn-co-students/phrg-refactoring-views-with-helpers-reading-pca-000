@@ -245,4 +245,7 @@ When we start repeating the same pieces of presentation logic across more than o
 
 * [Refactoring Views into Partials and Helpers](https://www.youtube.com/watch?v=UYhkBd2Mnl0)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-reading/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-reading/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Refactoring Views With Helpers</p>
